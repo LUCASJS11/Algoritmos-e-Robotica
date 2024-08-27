@@ -1,5 +1,5 @@
 # Algoritmos-e-Robotica
-EXERECICIO 26/08/2024
+EXERECICIO 26/08/2024 RA 24024069
 
 Abaixo, segue a atividade para ser resolvida em sala de aula e entregue até o final do dia utilizando o Git e Github. Todos os códigos devem ser elaborados utilizando os princípios da Linguagem C.
 
